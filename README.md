@@ -2,7 +2,7 @@
 
 ---
 
-### 🔎 Lecture Infomation
+### 🔎 Lecture Information
 
 🧑🏻‍🎤 Teacher : Nomad Coder  
 ⏩⏩ Lecture Link : [Twitter Clone Coding](https://nomadcoders.co/nwitter/lobby)  
@@ -10,6 +10,6 @@
 
 ---
 
-### 💻 Developer Environment 🔌
+### 💻 Development Environment 🔌
 
 [React JS](https://ko.reactjs.org/) + [Firebase](https://firebase.google.com)
